@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1725973625 source:d:\desktop\documents\atvgrafos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<iterator>
+	<fstream>
+
